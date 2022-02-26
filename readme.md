@@ -29,3 +29,5 @@ Any issues?
 git config --global credential.helper cache
 
 https://www.edgoad.com/2021/02/using-personal-access-tokens-with-git-and-github.html
+
+git clone repo.git
